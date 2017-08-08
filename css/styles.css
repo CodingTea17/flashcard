@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.answer {
+  /*color : #eee;*/
+  display: none;
+}
+
+.flashcard {
+  padding: 100px;
+}
+
+.hidden {
+  display: none;
+}
+
+.col-md-8 {
+  text-align: center;
+}
+
+.col-md-2 {
+  padding-top: 10%;
+}
+
+#next {
+
+}
